@@ -1,3 +1,4 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 large-lfs-files/** filter=lfs diff=lfs merge=lfs -text
 large-lfs-files/**/* filter=lfs diff=lfs merge=lfs -text
+core-data/large-lfs-files/* filter=lfs diff=lfs merge=lfs -text
