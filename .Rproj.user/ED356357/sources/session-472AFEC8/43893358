@@ -1,11 +1,11 @@
 {
     "id": "43893358",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/congelio/Desktop/bdb-project/R/reading_and_parquets.R",
+    "project_path": "R/reading_and_parquets.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3142569324",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1665623804510.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 2308225651336,
-    "encoding": "",
+    "lastKnownWriteTime": 1665627243,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665624154760,
+    "last_content_update": 1665627243236,
     "read_only": false,
     "read_only_alternatives": []
 }
