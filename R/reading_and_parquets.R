@@ -40,3 +40,7 @@ all.weeks <- read_parquet("./core-data/large-lfs-files/all-weeks-parquet")
 all.weeks %>%
   group_by(game_id) %>%
   group_walk(~ write_csv(.x, paste0('tracking_gameId_', .y$game_id, ".csv")))
+
+### writing in team colors, logos
+team.colors <- nflfastR::teams_colors_logos %>%
+  select(team_abbr, team_color, team_color2, team_logo_espn)
