@@ -1,3 +1,5 @@
+### inspired by ngscleanR and modified to work with latest NFL Big Data Bowl
+
 the_dots <- function(
     tracking_data,
     orientation = TRUE,
